@@ -40,7 +40,7 @@ MS in ECE (Computer Systems & Software) @ Northeastern University · Previously 
 
 - 📌 **Future of Memory & Storage 2025** — Poster: *Cache Coherence Protocols on Compute Express Link (CXL)*
 - 📌 **Altera Innovation Day 2025** — Presented AI-based Unsupervised Validation Engine
-- 📌 **CSITSS 2024** — Paper: *Secure Boot Implementation in Automotive ECU* · [Link](https://ieeexplore.ieee.org/document/10816635)
+- 📌 **CSITSS 2024** — Paper: *Secure Boot Implementation in Automotive ECU* · [Link](https://ieeexplore.ieee.org/document/10816980)
 
 ---
 
