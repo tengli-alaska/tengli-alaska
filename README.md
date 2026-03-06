@@ -59,8 +59,8 @@ HPC           MPI · OpenMP · SLURM · CUDA Profiling · Latency/Bandwidth Anal
 
 - **Future of Memory & Storage 2025** — Poster: Cache Coherence Protocols on CXL 2.0
 - **Altera Innovation Day 2025** — AI-based Unsupervised Validation Engine
-- **CSITSS 2024** — [Secure Boot Implementation in Automotive ECU](https://ieeexplore.ieee.org/document/10816980)
-- **Bentham Science 2024** — Book Chapter: Cyber-Physical Systems for UAVs (https://www.benthamdirect.com/content/books/9789815223286.chapter-4)
+- **CSITSS 2024** - [Secure Boot Implementation in Automotive ECU](https://ieeexplore.ieee.org/document/10816980)
+- **Bentham Science 2024** — [Book Chapter: Cyber-Physical Systems for UAVs](https://www.benthamdirect.com/content/books/9789815223286.chapter-4)
 
 ---
 
