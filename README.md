@@ -1,6 +1,6 @@
 # Alaska Tengli
 
-**Systems × AI — from silicon validation to ML infrastructure.**
+**Systems × AI - from silicon validation to ML infrastructure.**
 
 I come from hardware/post-silicon validation, PCIe interconnects, secure boot firmware - and I've been building toward AI infrastructure and performance engineering. I think about inference bottlenecks in terms of cache coherence, memory hierarchies, and what's actually happening on the silicon.
 
