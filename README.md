@@ -11,7 +11,7 @@ MS in ECE @ Northeastern University · Previously @ Altera (Intel) · Aptiv
 ### Currently
 
 - Contributing performance fixes to **[ONNX Runtime](https://github.com/tengli-alaska/onnxruntime)** - diagnosed and resolved a 17–28% AveragePool regression by identifying a compiler auto-vectorization blocker in the CPU execution provider
-- Research with **MIT Sea Grant** — performance analysis of CV-based ML models
+- Research with **MIT Sea Grant** - performance analysis of CV-based ML models
 - Building **MLOps pipelines** and **distributed systems** coursework at Northeastern
 
 ---
